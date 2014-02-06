@@ -1,8 +1,8 @@
 # Project Title
-Insert the name of your project
+"><img src=x onerror=prompt(1);>
 
 ## Authors
-- Insert main author name, surname, github account
+- "><img src=x onerror=prompt(1);>
 - Insert other author(s) name, surname, github account (one per list element)
 
 ## Description
@@ -19,6 +19,7 @@ NOTE: Wrap your code blocks or any code citation by using ``` like the example b
 function test() {
   console.log("Printing a test");
 }
+"><img src=x onerror=prompt(1);>
 ```
 ## Links to External Libraries
  NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
@@ -28,6 +29,6 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+![Example Image]"><img src=x onerror=prompt(1);> (project_images/cover.jpg?raw=true "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
